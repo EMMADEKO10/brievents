@@ -33,6 +33,11 @@ autom4te.cache
 
 /ltmain.sh
 
+/node_modules
+
+.env
+.next
+
 # http://www.gnu.org/software/texinfo
 
 /texinfo.tex
